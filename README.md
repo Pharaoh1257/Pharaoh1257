@@ -2,16 +2,13 @@ Hi, I'm John
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-<b>VPN (Virtual Private Network)</b>
+<b>Active Directory </b>
  
- - [Setup and Usage](https://github.com/Pharaoh1257/VPNsetupandusage)
+ - [Active Directory](https://github.com/Pharaoh1257/active-directory)
  
-<b> Remote Desktop <b>
-  - [How to use Remote Desktop](https://github.com/Pharaoh1257/remote-desktop)
+<b> osTicket <b>
+  - [osTicket](https://github.com/Pharaoh1257/osTicket)
  
- <b>Microsoft Azure</b>
-  - [Create a subscription and a resource group](https://github.com/Pharaoh1257/subscription-resourcegroup)
  
-
 
 
